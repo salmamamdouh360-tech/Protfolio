@@ -1,10 +1,10 @@
-# Yusif Mohey Eldin | Software Engineer Portfolio
+# Salma Mamdouh | Software Engineer Portfolio
 
-Personal portfolio website for **Yusif Mohey Eldin**, a Software Engineer and Flutter specialist from Egypt. The website presents his experience, education, technical skills, featured projects, problem-solving journey, and contact information.
+Personal portfolio website for **Salma Mamdouh**, a Software Engineer and Flutter specialist from Egypt. The website presents his experience, education, technical skills, featured projects, problem-solving journey, and contact information.
 
-## About Yusif
+## About Salma
 
-Yusif builds scalable, high-performance cross-platform mobile applications with Flutter and Dart. He works with Clean Architecture, SOLID principles, MVVM, BLoC/Cubit, REST APIs, Firebase, local storage, and native integrations such as ESC/POS thermal printing.
+Salma builds scalable, high-performance cross-platform mobile applications with Flutter and Dart. He works with Clean Architecture, SOLID principles, MVVM, BLoC/Cubit, REST APIs, Firebase, local storage, and native integrations such as ESC/POS thermal printing.
 
 He has built and contributed to 10+ mobile applications and solved 300+ programming problems across platforms such as LeetCode, Codeforces, and HackerRank. His featured work includes delivery, parking, books, food ordering, AI currency recognition, and restaurant management applications.
 
@@ -32,11 +32,11 @@ After enabling GitHub Pages, the portfolio will be available at:
 - Google Fonts
 - Formspree for the contact form
 
-## Contact Yusif
+## Contact Salma
 
-- **Email:** [moheyy28@gmail.com](mailto:moheyy28@gmail.com)
-- **LinkedIn:** [Yusif Mohey Eldin](https://www.linkedin.com/in/yusif-mohey/)
-- **GitHub:** [Yusif-Mohey](https://github.com/Yusif-Mohey)
+- **Email:** [salmamamdouh360@gmail.com](mailto:salmamamdouh360@gmail.com)
+- **LinkedIn:** [Salma Mamdouh](https://www.linkedin.com/in/salma-mamdouh-a469192a5?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- **GitHub:** [Salma-Mamdouh](https://github.com/salmamamdouh360-tech)
 - **Location:** Cairo, Egypt
 
 
